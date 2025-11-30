@@ -159,7 +159,7 @@ cv-mlops-cicd-pipeline/
 
 ## 🧑‍💻 Author
 
-**Manu Panand**  
+**Manu P Anand**  
 DevOps & MLOps Engineer  
 💼 *Building scalable ML infrastructure using open-source tools.*
 
